@@ -58,21 +58,23 @@ Prairie View A&M University, Prairie View, Texas, United States
 Graduated: **2021**  
 United International University, Dhaka, Bangladesh
 
----
 
 ## 🔬 Research Interests
 
-- Machine Learning
-- Deep Learning
-- IoT-Based Monitoring Systems
-- Landslide Early Warning Systems
-- Time-Series Forecasting
-- Hydrology-Informed AI
-- Data Science and Predictive Modeling
-- Cloud-Based Sensor Data Processing
-- Computational Modeling
+My research interests lie at the intersection of **Cybersecurity, Artificial Intelligence, Machine Learning, and Intelligent Computing Systems**, with an emphasis on developing secure, reliable, and data-driven solutions to real-world challenges.
 
----
+- 🔐 Cybersecurity & Information Security
+- 🤖 Artificial Intelligence & Machine Learning
+- 🛡️ AI-Driven Cyber Threat Detection
+- 🔒 Privacy-Preserving Machine Learning
+- 🌐 IoT & Cyber-Physical Systems Security
+- 🧠 Deep Learning & Intelligent Systems
+- 📊 Data Science & Predictive Analytics
+- ⏳ Time-Series Forecasting & Anomaly Detection
+- ☁️ Cloud-Based Data Processing
+- 🔬 Interdisciplinary Computational Modeling
+
+
 
 # 🛠️ Technical Skills
 
