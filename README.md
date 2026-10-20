@@ -30,22 +30,6 @@ I am particularly interested in expanding my research into **Cybersecurity, AI-D
 
 Alongside my academic aspirations, I am open to **full-time opportunities in Software Engineering, Machine Learning, Data Science, Artificial Intelligence, and Research Engineering**, where I can apply my technical expertise to develop innovative, reliable, and impactful solutions.
 
-
-## 🎯 Currently Seeking
-
-I am actively seeking full-time opportunities in:
-
-<p>
-  <img src="https://img.shields.io/badge/Software%20Engineering-6A5ACD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-2E8B57?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud%2FDevOps-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Research%20Engineering-8A2BE2?style=flat-square" />
-</p>
-
-I am open to roles where I can apply my background in **software engineering, machine learning, IoT-based data analysis, time-series modeling, and research-driven software development** to solve real-world problems.
-
 ---
 
 ## 🎓 Education
