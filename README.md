@@ -19,17 +19,17 @@
   </a>
 </p>
 
----
 
 ## 👩‍💻 About Me
 
-I am a **Computer Science graduate** from **Prairie View A&M University** with research experience in **machine learning, IoT-based monitoring systems, data science, and computational modeling**.
+I am a **Computer Science graduate** from **Prairie View A&M University**, where I earned my **Master of Science in Computer Science (GPA: 4.0)**. My academic background includes hands-on research experience in **Machine Learning, Artificial Intelligence, Data Science, IoT Systems, and Computational Modeling**.
 
-My work focuses on applying **machine learning and sensor-based data analysis** to real-world engineering problems, especially **rainfall-induced slope failure prediction, landslide early warning, and soil-water characteristic curve modeling**.
+My research has focused on developing **machine learning-based predictive systems, real-time IoT monitoring solutions, and data-driven computational frameworks** to address complex engineering challenges. Through interdisciplinary research, I have gained experience in **predictive analytics, time-series forecasting, sensor data processing, software development, and research-oriented problem-solving**.
 
-I am currently focused on securing a **full-time role** where I can contribute to **machine learning, data science, software development, cloud/DevOps, or research engineering projects**.
+I am particularly interested in expanding my research into **Cybersecurity, AI-Driven Security, Privacy-Preserving Machine Learning, and Secure Computing Systems**. I am actively pursuing **Ph.D. opportunities for Spring 2027** to advance my research capabilities and contribute to the development of secure and intelligent technologies.
 
----
+Alongside my academic aspirations, I am open to **full-time opportunities in Software Engineering, Machine Learning, Data Science, Artificial Intelligence, and Research Engineering**, where I can apply my technical expertise to develop innovative, reliable, and impactful solutions.
+
 
 ## 🎯 Currently Seeking
 
