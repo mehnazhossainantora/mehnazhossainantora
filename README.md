@@ -54,7 +54,7 @@ I am open to roles where I can apply my background in **software engineering, ma
 Graduated: **December 2025**  
 Prairie View A&M University, Prairie View, Texas, United States
 
-**BSc in Computer Science**  
+**BSc in Computer Science and Engineering**  
 Graduated: **2021**  
 United International University, Dhaka, Bangladesh
 
