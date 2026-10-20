@@ -183,11 +183,89 @@ My research work includes topics related to:
 - Soil-water characteristic curve modeling
 - Computational modeling and visualization
 
+
 ---
 
-## 🌱 Future Academic Interest
+## 🎓 Future Academic Aspirations
 
-Alongside my professional goals, I remain interested in future Ph.D. opportunities beginning in **2027**, especially in areas related to **machine learning, artificial intelligence, data science, IoT systems, and interdisciplinary computing research**.
+I am actively pursuing **Ph.D. opportunities for Spring 2027**, with a primary focus on **Cybersecurity**, alongside **Artificial Intelligence, Machine Learning, and Computing Systems**.
+
+My goal is to build upon my existing research experience in **Machine Learning, IoT-based Monitoring Systems, Predictive Analytics, and Computational Modeling** while expanding into advanced research in secure and intelligent computing.
+
+### 🔬 Prospective Ph.D. Research Interests
+
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-DC143C?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Security-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Privacy--Preserving%20ML-6A5ACD?style=flat-square" />
+  <img src="https://img.shields.io/badge/IoT%20Security-008080?style=flat-square" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat-square" />
+</p>
+
+- **Cybersecurity & Information Security**
+- **AI-Driven Cyber Threat Detection**
+- **Privacy-Preserving Machine Learning**
+- **IoT & Cyber-Physical Systems Security**
+- **Artificial Intelligence & Deep Learning**
+- **Secure and Trustworthy Computing**
+- **Data Science & Predictive Analytics**
+
+My long-term aspiration is to contribute to the development of **secure, intelligent, and reliable computing technologies** through advanced research, interdisciplinary collaboration, and innovative technological solutions.
+
+---
+
+## 📚 Professional Development & Certifications
+
+I am continuously strengthening my technical knowledge through specialized coursework and professional development programs relevant to my future doctoral research in **Cybersecurity, Artificial Intelligence, and Machine Learning**.
+
+### 🔐 Cybersecurity
+
+<a href="https://www.coursera.org/professional-certificates/google-cybersecurity">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+
+**Google Cybersecurity Professional Certificate**
+- Institution: Google | Coursera
+- Status: 🔄 Ongoing
+- Focus: Network Security, Threat Detection, Linux, SQL, Python, Security Operations
+
+### 🔑 Cryptography
+
+<a href="https://www.coursera.org/learn/crypto">
+  <img src="https://img.shields.io/badge/Stanford-Cryptography%20I-8C1515?style=for-the-badge" />
+</a>
+
+**Cryptography I**
+- Institution: Stanford University | Coursera
+- Status: 🔄 Ongoing
+- Focus: Cryptographic Protocols, Encryption, Authentication, Secure Communication
+
+### 🤖 Machine Learning
+
+<a href="https://www.coursera.org/specializations/machine-learning-introduction">
+  <img src="https://img.shields.io/badge/Stanford%20%26%20DeepLearning.AI-Machine%20Learning-FF6F00?style=for-the-badge" />
+</a>
+
+**Machine Learning Specialization**
+- Institution: Stanford Online & DeepLearning.AI | Coursera
+- Status: 🔄 Ongoing
+- Focus: Supervised Learning, Unsupervised Learning, Neural Networks, Anomaly Detection
+
+---
+
+### 🌱 Continuous Learning
+
+I am committed to expanding my knowledge in:
+
+<p>
+  <img src="https://img.shields.io/badge/Network%20Security-DC143C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cryptography-8C1515?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat%20Detection-FF4500?style=flat-square" />
+  <img src="https://img.shields.io/badge/Trustworthy%20AI-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Anomaly%20Detection-2E8B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/Secure%20Computing-6A5ACD?style=flat-square" />
+</p>
 
 ---
 
